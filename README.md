@@ -4,7 +4,7 @@ I'm a CS/Math dual undergraduate at Rennselaer Polytechnic Institute. I'm curren
 
 To Learn:
 
-Databases, LLM
+Databases, LLMs
 
 If you want my help on any projects feel free to reach out:
 
