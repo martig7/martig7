@@ -2,10 +2,6 @@
 
 I'm a CS/Math dual undergraduate at Rennselaer Polytechnic Institute. I'm currently most comfortable with python, with my specialty being webscraping with beautiful soup and selenium. I use these to write scraping scripts for two websites related to degree planning at RPI, YACS and HASSPathways. I additionally rewrote much of the HASSPathways frontend/backend for HASSPathwaysV2. I created live chat and helped with websocket testing for Submitty.
 
-To Learn:
-
-Databases, LLMs
-
 If you want my help on any projects feel free to reach out:
 
 email: giancarlo@gcmart.net
